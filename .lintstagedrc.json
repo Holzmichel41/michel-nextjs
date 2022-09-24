@@ -1,0 +1,7 @@
+{
+  "*": ["yarn prettier"],
+  "*.ts": ["yarn eslint:fix", "yarn type-check"],
+  "*.tsx": ["yarn eslint:fix", "yarn type-check"],
+  "*.js": ["yarn eslint:fix", "yarn type-check"],
+  "*.jsx": ["yarn eslint:fix", "yarn type-check"]
+}

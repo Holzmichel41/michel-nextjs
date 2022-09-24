@@ -1,0 +1,13 @@
+# folders
+amplify
+models
+public
+
+# config
+tailwind.config.js
+postcss.config.js
+next.config.js
+commitlint.config.js
+cypress.config.ts
+
+pages/_offline.js
